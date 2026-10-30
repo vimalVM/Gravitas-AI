@@ -1,0 +1,26 @@
+{
+  "app": {
+    "name": "GRAVITAS AI",
+    "assistantName": "Gravitas AI",
+    "subtitle": "Intelligent Conversations. One Project at a Time.",
+    "operatorConsoleName": "Operator Console"
+  },
+  "group": {
+    "number": "27",
+    "label": "Group No. 27"
+  },
+  "project": {
+    "name": "Project AETHER-218",
+    "code": "GRV-2.18",
+    "description": "Predictive Systems Research and Development",
+    "status": "in_progress"
+  },
+  "conversation": {
+    "title": "Gravitas AI",
+    "welcomeMessage": "Hello! Welcome to Gravitas AI. How can I help you with Project AETHER-218 today?"
+  },
+  "uploads": {
+    "maxImageMb": 5,
+    "allowedImageTypes": ["image/jpeg", "image/png", "image/webp"]
+  }
+}
